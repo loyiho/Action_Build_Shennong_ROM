@@ -9,7 +9,7 @@ on:
       VENDOR_URL:
         description: "底包下载地址"
         required: true
-        default: 'https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.6.0.UNBCNXM/miui_SHENNONG_OS1.0.6.0.UNBCNXM_071034c0d5_14.0.zip'
+        default: 'https://ultimateota.d.miui.com/OS1.0.39.0.UNBCNXM/miui_SHENNONG_OS1.0.39.0.UNBCNXM_c67d65e7de_14.0.zip?t=1714172466&s=a7ba8cb53624d9df58f2735a33cda945'
 
 jobs:
   build:
